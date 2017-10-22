@@ -1,0 +1,23 @@
+#brainstorm
+
+Predictive model for thyroid cancer diagnosis based on patient health data
+
+boston city dataset
+
+jobs dataset- prediction about growth careers in the us. Is there a correlation between employer and job type. Do certain employers and jobs cluster in the same way?
+
+https://www.kaggle.com/PromptCloudHQ/us-jobs-on-monstercom
+
+I want to see if job_type and organization are correlated in some way.
+I want to see if there are more analysts in a specific industry/sector. What are the analysts paid.
+Do some sectors have more analyst jobs than others?
+Do job types or industry types cluster around a specific location?
+Get another population dataset and calculate per capita info regarding analyst positions per capita
+Do some sectors have more analyst jobs?
+
+Where is the best location to find an analyst position?
+    -
+
+ML-related things:
+Can you use sector and location to predict analyst salary range?(using logistic regression)
+Given your location and position type(part-time, temp, etc), which type of sector has the most jobs? (linear regression)
